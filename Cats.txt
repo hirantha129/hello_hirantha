@@ -1,2 +1,3 @@
 newly added text
 Updated in mybranch
+New commit in master
